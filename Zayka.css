@@ -1,0 +1,123 @@
+.container-fluid{
+	background-image: url('wallpaper.jpg');
+	background-size: cover;
+	background-position: center;
+	height:700px;
+}
+
+.container{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	letter-spacing: 1.5px;
+}
+
+#right{
+	font-family: 'Oswald', sans-serif;
+	letter-spacing: 0.5px;
+}
+
+#left{
+	font-family: 'Oswald', sans-serif;
+	letter-spacing: 0.5px;
+}
+.card{
+	font-family: 'Oswald', sans-serif;
+	letter-spacing: 0.5px;
+}
+
+.nav-item{
+	font-size: 20px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	letter-spacing: 1.5px;
+}
+
+h5{
+  text-align: center;
+}
+
+
+
+.top{
+  margin-top: 50px;
+}
+
+#head h1{
+	margin-top: 50px;
+	text-align: center;
+	color:white;
+	font-size: 8em;
+	font-family: 'Great Vibes', cursive;
+	
+	text-shadow:2px 2px #ff0000;
+}
+#head p{
+	text-align: center;
+	color: white;
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 0.5px;
+
+}
+body{
+	background-color: #eae9e6;
+	background-size: cover;
+	background-position: center;
+  
+}
+#events{
+	margin : 20px auto;
+	text-align: center;
+}
+#events p{
+	margin-top:20px;
+}
+.section{
+	background-color: #9dd373;
+	height: 250px;
+	padding:20px;
+}
+
+
+
+.menu { 
+            background-color: white; 
+            border: 2px solid white; 
+            border-radius: .20rem;
+            color: green; 
+            padding: 5px 10px; 
+            text-align: center; 
+            display: inline-block; 
+            font-size: 20px; 
+            margin: 10px 30px; 
+            cursor: pointer; 
+            transition-duration: 0.4s;
+        }
+
+        .menu:hover{
+          background-color: #9dd373;
+          border: 2px solid white; 
+
+        }
+
+
+
+
+hr{
+    border: 4;
+    border-top: 3px solid rgba(4,0,0,.1);
+}
+
+
+.special h2{
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.images .card{
+float: left;
+margin: 3.6%;
+}
+.images img{
+	height:200px;
+}
+
+

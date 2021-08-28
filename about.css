@@ -1,0 +1,51 @@
+body{
+  background:#cfcecc;
+}
+.container-fluid{
+	background-image: url('https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?cs=srgb&dl=pexels-chan-walrus-958545.jpg&fm=jpg');
+	background-size: cover;
+	background-position: center;
+	height:500px;
+
+}
+
+.nav-item{
+  font-size: 20px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  letter-spacing: 1.5px;
+}
+
+hr{
+  border:4;
+  border-top:3px solid rgba(4, 0, 0, 0.1);
+}
+
+h1{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+  margin-bottom: 20px;
+}
+
+p{
+  text-shadow: 0.3px 0.3px black;
+}
+.para1{
+	margin: 70px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.3em;
+}
+ 
+ .photo {
+ 	margin-right: auto;
+ 	margin-left: auto;
+ 	width:50%;
+  margin-bottom: 30px;
+ }
+ .photo .img{
+ 	height:500px;
+ }
+
+ 
+
+
+
